@@ -1,2 +1,5 @@
 # GitHub-Viewer
-AngularJS example
+AngularJS example app
+
+See the live demo at:
+https://tinyurl.com/begurliaccio
